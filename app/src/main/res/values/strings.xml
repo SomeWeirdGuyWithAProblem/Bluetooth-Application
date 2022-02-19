@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearningApplication</string>
+    <string name="bluetooth_image">Bluetooth Image</string>
+    <string name="bluetooth_on">Bluetooth On</string>
+    <string name="bluetooth_off">Bluetooth Off</string>
+    <string name="discoverable">Discoverable</string>
+    <string name="get_paired_devices">Get Paired Devices</string>
+</resources>
